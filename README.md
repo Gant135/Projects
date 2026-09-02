@@ -24,7 +24,6 @@ BSc Computer Science
 
 ## 🔧 Technical Interests
 
-- Formula 1 & Motorsport
 - Motorsport Software
 - Data Analysis
 - Telemetry
@@ -33,7 +32,6 @@ BSc Computer Science
 - Race Strategy
 - Performance Analysis
 - Algorithms & Optimisation
-- Numerical Modelling
 - High-Performance Computing
 - Software Engineering
 
