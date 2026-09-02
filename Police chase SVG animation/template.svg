@@ -1,0 +1,227 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky -->
+  <defs>
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#87CEEB" />
+      <stop offset="100%" stop-color="#b0e0e6" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#skyGrad)" />
+
+  <!-- City buildings -->
+  <g fill="#2e2e2e">
+    <rect x="40" y="80" width="60" height="220" />
+    <rect x="120" y="130" width="50" height="170" />
+    <rect x="190" y="60" width="70" height="240" />
+    <rect x="270" y="110" width="60" height="190" />
+    <rect x="350" y="90" width="50" height="210" />
+    <rect x="420" y="120" width="60" height="180" />
+    <rect x="500" y="100" width="70" height="200" />
+    <rect x="590" y="140" width="50" height="160" />
+  </g>
+
+  <!-- Building windows -->
+  <g fill="#ffd700">
+    <rect x="50" y="90" width="10" height="15"/>
+    <rect x="70" y="90" width="10" height="15"/>
+    <rect x="50" y="115" width="10" height="15"/>
+    <rect x="70" y="115" width="10" height="15"/>
+    <rect x="50" y="140" width="10" height="15"/>
+    <rect x="70" y="140" width="10" height="15"/>
+    <rect x="50" y="165" width="10" height="15"/>
+    <rect x="70" y="165" width="10" height="15"/>
+    <rect x="50" y="190" width="10" height="15"/>
+    <rect x="70" y="190" width="10" height="15"/>
+    <rect x="50" y="215" width="10" height="15"/>
+    <rect x="70" y="215" width="10" height="15"/>
+    <rect x="50" y="240" width="10" height="15"/>
+    <rect x="70" y="240" width="10" height="15"/>
+    <rect x="50" y="265" width="10" height="15"/>
+    <rect x="70" y="265" width="10" height="15"/>
+    <rect x="130" y="140" width="10" height="15"/>
+    <rect x="150" y="140" width="10" height="15"/>
+    <rect x="130" y="165" width="10" height="15"/>
+    <rect x="150" y="165" width="10" height="15"/>
+    <rect x="130" y="190" width="10" height="15"/>
+    <rect x="150" y="190" width="10" height="15"/>
+    <rect x="130" y="215" width="10" height="15"/>
+    <rect x="150" y="215" width="10" height="15"/>
+    <rect x="130" y="240" width="10" height="15"/>
+    <rect x="150" y="240" width="10" height="15"/>
+    <rect x="130" y="265" width="10" height="15"/>
+    <rect x="150" y="265" width="10" height="15"/>
+    <rect x="200" y="70" width="10" height="15"/>
+    <rect x="220" y="70" width="10" height="15"/>
+    <rect x="240" y="70" width="10" height="15"/>
+    <rect x="200" y="95" width="10" height="15"/>
+    <rect x="220" y="95" width="10" height="15"/>
+    <rect x="240" y="95" width="10" height="15"/>
+    <rect x="200" y="120" width="10" height="15"/>
+    <rect x="220" y="120" width="10" height="15"/>
+    <rect x="240" y="120" width="10" height="15"/>
+    <rect x="200" y="145" width="10" height="15"/>
+    <rect x="220" y="145" width="10" height="15"/>
+    <rect x="240" y="145" width="10" height="15"/>
+    <rect x="200" y="170" width="10" height="15"/>
+    <rect x="220" y="170" width="10" height="15"/>
+    <rect x="240" y="170" width="10" height="15"/>
+    <rect x="200" y="195" width="10" height="15"/>
+    <rect x="220" y="195" width="10" height="15"/>
+    <rect x="240" y="195" width="10" height="15"/>
+    <rect x="200" y="220" width="10" height="15"/>
+    <rect x="220" y="220" width="10" height="15"/>
+    <rect x="240" y="220" width="10" height="15"/>
+    <rect x="200" y="245" width="10" height="15"/>
+    <rect x="220" y="245" width="10" height="15"/>
+    <rect x="240" y="245" width="10" height="15"/>
+    <rect x="280" y="120" width="10" height="15"/>
+    <rect x="300" y="120" width="10" height="15"/>
+    <rect x="280" y="145" width="10" height="15"/>
+    <rect x="300" y="145" width="10" height="15"/>
+    <rect x="280" y="170" width="10" height="15"/>
+    <rect x="300" y="170" width="10" height="15"/>
+    <rect x="280" y="195" width="10" height="15"/>
+    <rect x="300" y="195" width="10" height="15"/>
+    <rect x="280" y="220" width="10" height="15"/>
+    <rect x="300" y="220" width="10" height="15"/>
+    <rect x="280" y="245" width="10" height="15"/>
+    <rect x="300" y="245" width="10" height="15"/>
+    <rect x="360" y="100" width="10" height="15"/>
+    <rect x="380" y="100" width="10" height="15"/>
+    <rect x="360" y="125" width="10" height="15"/>
+    <rect x="380" y="125" width="10" height="15"/>
+    <rect x="360" y="150" width="10" height="15"/>
+    <rect x="380" y="150" width="10" height="15"/>
+    <rect x="360" y="175" width="10" height="15"/>
+    <rect x="380" y="175" width="10" height="15"/>
+    <rect x="360" y="200" width="10" height="15"/>
+    <rect x="380" y="200" width="10" height="15"/>
+    <rect x="360" y="225" width="10" height="15"/>
+    <rect x="380" y="225" width="10" height="15"/>
+    <rect x="360" y="250" width="10" height="15"/>
+    <rect x="380" y="250" width="10" height="15"/>
+    <rect x="360" y="275" width="10" height="15"/>
+    <rect x="380" y="275" width="10" height="15"/>
+    <rect x="430" y="130" width="10" height="15"/>
+    <rect x="450" y="130" width="10" height="15"/>
+    <rect x="430" y="155" width="10" height="15"/>
+    <rect x="450" y="155" width="10" height="15"/>
+    <rect x="430" y="180" width="10" height="15"/>
+    <rect x="450" y="180" width="10" height="15"/>
+    <rect x="430" y="205" width="10" height="15"/>
+    <rect x="450" y="205" width="10" height="15"/>
+    <rect x="430" y="230" width="10" height="15"/>
+    <rect x="450" y="230" width="10" height="15"/>
+    <rect x="430" y="255" width="10" height="15"/>
+    <rect x="450" y="255" width="10" height="15"/>
+    <rect x="510" y="110" width="10" height="15"/>
+    <rect x="530" y="110" width="10" height="15"/>
+    <rect x="510" y="135" width="10" height="15"/>
+    <rect x="530" y="135" width="10" height="15"/>
+    <rect x="510" y="160" width="10" height="15"/>
+    <rect x="530" y="160" width="10" height="15"/>
+    <rect x="510" y="185" width="10" height="15"/>
+    <rect x="530" y="185" width="10" height="15"/>
+    <rect x="510" y="210" width="10" height="15"/>
+    <rect x="530" y="210" width="10" height="15"/>
+    <rect x="510" y="235" width="10" height="15"/>
+    <rect x="530" y="235" width="10" height="15"/>
+    <rect x="510" y="260" width="10" height="15"/>
+    <rect x="530" y="260" width="10" height="15"/>
+    <rect x="600" y="150" width="10" height="15"/>
+    <rect x="620" y="150" width="10" height="15"/>
+    <rect x="600" y="175" width="10" height="15"/>
+    <rect x="620" y="175" width="10" height="15"/>
+    <rect x="600" y="200" width="10" height="15"/>
+    <rect x="620" y="200" width="10" height="15"/>
+    <rect x="600" y="225" width="10" height="15"/>
+    <rect x="620" y="225" width="10" height="15"/>
+    <rect x="600" y="250" width="10" height="15"/>
+    <rect x="620" y="250" width="10" height="15"/>
+    <rect x="600" y="275" width="10" height="15"/>
+    <rect x="620" y="275" width="10" height="15"/>
+
+      
+  </g>
+
+  <!-- Road -->
+  <rect y="300" width="100%" height="100" fill="#444" />
+
+  <!-- Road markings -->
+  <g stroke="#FFF" stroke-width="4">
+    <line x1="0" y1="350" x2="800" y2="350" stroke-dasharray="20,20" />
+  </g>
+
+  <!-- Civilian traffic cars (gray) -->
+  <g transform="translate(100, 320)">
+    <rect width="70" height="25" rx="5" ry="5" fill="#888" />
+    <circle cx="15" cy="25" r="6" fill="#222" />
+    <circle cx="55" cy="25" r="6" fill="#222" />
+  </g>
+  <g transform="translate(300, 310)">
+    <rect width="70" height="25" rx="5" ry="5" fill="#999" />
+    <circle cx="15" cy="25" r="6" fill="#222" />
+    <circle cx="55" cy="25" r="6" fill="#222" />
+  </g>
+  <g transform="translate(500, 350)">
+    <rect width="70" height="25" rx="5" ry="5" fill="#999" />
+    <circle cx="15" cy="25" r="6" fill="#222" />
+    <circle cx="55" cy="25" r="6" fill="#222" />
+  </g>
+
+  <!-- Car 1 (Red - speeding) -->
+  <g transform="translate(200, 290)">
+    <rect width="80" height="30" rx="6" ry="6" fill="red" />
+    <circle cx="15" cy="30" r="7" fill="#111" />
+    <circle cx="65" cy="30" r="7" fill="#111" />
+    <rect x="10" y="5" width="20" height="10" fill="#ccf" />
+    <rect x="35" y="5" width="20" height="10" fill="#ccf" />
+    <circle cx="0" cy="15" r="3" fill="yellow" />
+    <circle cx="80" cy="15" r="3" fill="orange" />
+  </g>
+
+  <!-- Car 2 (Blue - speeding) -->
+  <g transform="translate(400, 280)">
+    <rect width="80" height="30" rx="6" ry="6" fill="#0073e6" />
+    <circle cx="15" cy="30" r="7" fill="#111" />
+    <circle cx="65" cy="30" r="7" fill="#111" />
+    <rect x="10" y="5" width="20" height="10" fill="#ccf" />
+    <rect x="35" y="5" width="20" height="10" fill="#ccf" />
+    <circle cx="0" cy="15" r="3" fill="yellow" />
+    <circle cx="80" cy="15" r="3" fill="orange" />
+  </g>
+
+  <!-- Police Car -->
+  <g transform="translate(600, 320)">
+    <rect width="80" height="30"  fill="white" stroke="#000" stroke-width="1" />
+    <circle cx="15" cy="30" r="7" fill="#111" />
+    <circle cx="65" cy="30" r="7" fill="#111" />
+    <rect x="10" y="5" width="20" height="10" fill="#ccf" />
+    <rect x="35" y="5" width="20" height="10" fill="#ccf" />
+    <!-- Police lights -->
+    <rect x="30" y="-5" width="10" height="5" fill="red" />
+    <rect x="40" y="-5" width="10" height="5" fill="blue" />
+  </g>
+
+  <g transform="translate(350, 350)">
+    <rect width="80" height="30"  fill="white" stroke="#000" stroke-width="1" />
+    <circle cx="15" cy="30" r="7" fill="#111" />
+    <circle cx="65" cy="30" r="7" fill="#111" />
+    <rect x="10" y="5" width="20" height="10" fill="#ccf" />
+    <rect x="35" y="5" width="20" height="10" fill="#ccf" />
+    <!-- Police lights -->
+    <rect x="30" y="-5" width="10" height="5" fill="red" />
+    <rect x="40" y="-5" width="10" height="5" fill="blue" />
+  </g>
+
+  <g transform="translate(500, 295)">
+    <rect width="80" height="30"  fill="white" stroke="#000" stroke-width="1" />
+    <circle cx="15" cy="30" r="7" fill="#111" />
+    <circle cx="65" cy="30" r="7" fill="#111" />
+    <rect x="10" y="5" width="20" height="10" fill="#ccf" />
+    <rect x="35" y="5" width="20" height="10" fill="#ccf" />
+    <!-- Police lights -->
+    <rect x="30" y="-5" width="10" height="5" fill="red" />
+    <rect x="40" y="-5" width="10" height="5" fill="blue" />
+  </g>
+</svg>
