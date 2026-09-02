@@ -1,4 +1,4 @@
-👋 Hi, I'm Guido Antonelli
+###👋 Hi, I'm Guido Antonelli
 
 I'm a Computer Science student at Oxford Brookes University, currently working towards First-Class Honours (1st). I'm passionate about technology, programming, and motorsport, with the ambition of pursuing a career in Formula 1.
 
