@@ -21,6 +21,7 @@ BSc Computer Science
 - C
 - Java
 - HTML
+- MATLAB
 
 ## 🔧 Technical Interests
 
